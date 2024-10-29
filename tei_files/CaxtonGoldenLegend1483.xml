@@ -1,0 +1,1115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="short">Legenda Aurea Sanctem</title>
+                <title type="main">Legenda Aurea Sanctum.</title>
+                <author>Jacobus de Voragine</author>
+                <respStmt>
+                    <resp>Copy edited from OCR</resp>
+                    <name>Luies, Brenda</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>William Caxton</publisher>
+                <date when="1483">1483</date>
+                <pubPlace>London</pubPlace>
+                <idno type="call">STC 24873</idno>
+                <idno type="cdm">1483</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note>This incunabula, as most do, does not come with fromt matter or any significant paratextual apparatus</note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>SFU Special Collections</repository>
+                        <idno type="call">STC 24873</idno>
+                        <idno type="cdm">STC 24873</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>         
+                            <docImprint>
+                      By me Wyllyam Caxton
+                            </docImprint>
+                            <docEdition>1</docEdition>
+                            <docDate when="1483"/>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="unknown">
+                            <supportDesc>
+                                <extent>
+                                    <measure unit="pages" quantity="907"/>
+                                    <measure unit="volumes" quantity="1"/>
+                                </extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <bindingDesc>
+                            <p> binding unkown</p>
+                        </bindingDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+        </front>
+        <body>
+            
+            <pb type="prologue" n="1"/>
+
+            <p>THe holy &amp; blessed doctour saynt Ierom sayth thys auctoryte / do alweye somme good werke / to thende that the deuyl fynde the not ydle / And the holy doctour saynt austyn sayth in the book of the labour of monkes / that no man stronge or myghty to laboure ought to be ydle for which cause whan I had parfourmed &amp; accomplisshed dyuers werkys &amp; hystoryes translated out of frensshe in to englysshe at the requeste of certeyn lordes / ladyes and gentylmen / as thystorye of the recuyel of Troye / the book of the chesse / the hystorye of Iason / The hystorye of the myrrour of the world / the xv bookes of Metamorpheseos in whyche been conteyned
+                <pb n="2"/>
+                the fables of ouyde / and the hystorye of 〈…〉froy of boloyn in the conqueste of Iherusalem / wyth other dyuers werkys &amp; bookes / I nyste what werke to begynne &amp; put forth after the said werkys tofore made / &amp; for as moche as ydelnesse is so moche blamed / as sayth saynt bernard the myllyfluous doctour that she is moder of lyes / &amp; stepdame of vertues / &amp; it is she that ouerthroweth stronge men in to synne / quenchyth vertue / nouryssheth pryde / &amp; maketh the waye redy to goo to helle / and Iohan cassyodore sayth that the thouʒt of hym that is ydle thynketh on none other thynge but on lychorous metys &amp; vyandes for his bely / and the holy saynt bernard aforesayd sayth in an epystle / whan the tyme shal come / that it shal behoue vs to rendre and gyue acomptes of our ydle tyme / what reson may we rendre / or what answer shal we gyue / whan in ydlenes is none excuse / &amp; prosper sayth that who someuer lyueth in ydlenesse / lyueth in manere of a dombe beest / and by cause I haue seen the auctorytees / that blame &amp; despyse so moche ydlenes / &amp; also knowe wel that it is one of the capytal and dedely synnes moche hateful vnto god Therfore I haue concluded &amp; fermelye purposed in my self no more to be ydle but wyl applye my self to laboure and suche ocupacion as I haue be acustomed to do / &amp; for as moche as saynt austyn aforesayd sayth vpon a psalme / that good werke ought not be doon for fere of payne / but for the loue of rightwysnesse / &amp; that it be of veray &amp; souerayn fraunchyse / and by cause me semeth to be a souerayn wele to Incyte &amp; exhorte men and wymmen to kepe them from slouthe and ydlenesse / and to lete to be vnderstonden to suche peple as been not letterd / the natyuytees / the lyues / the passyons / the myracles / and the dethe of the holy sayntes / &amp; also sōme other notorye dedes and actes of tymes passed / I haue submysed my self to translate in to englyssle the legende of sayntes / which is callyd legenda aurea in latyn / that is to say the golden legende for in lyke wyse as golde is moste noble aboue al other metalles / in lyke wyse is thys legende holden moost noble aboue al other werkys / ageynst me here myght somme persones saye that thys legende hath be translated tofore and trouthe it is / but for as moche as I had by me a legende in frensshe / another in latyn / &amp; the thyrd in englysshe whiche varyed in many and dyuers places / and also many hystoryes were comprysed in the two other bookes / whiche were not in the englysshe book and therfore I haue wryten one oute of the sayd thre bookes / which I haue ordryd otherwyse than the sayd englysshe legende is / whiche was so tofore made / besechyng alle theym that shall see or here it redde to pardone me where I haue erryd / or made fawte / whyche yf ony be / is of ygnoraunce and ageyn my wylle / and submytte it hooly of suche as can &amp; may to correcte it / humbly bysechyng them so to doo / and in so doyng / they shal deserue a synguler lawde and meryte / &amp; I shal praye for them vnto almyghty god that he of his benygne grace rewarde them &amp;c̄ And that it prouffyte to alle them that shal rede or here it redde / and may encreace in them vertue / and expelle vyce and synne / that by the ensaumple of the holy sayntes amende theyr lyuyng here in thys shorte lyf / that by their merytes / they and I may come to euerlastyng lyf &amp; blysse in heuen amen / </p>
+                
+      <p>          
+          ANd for as moche as this sayd werke was grete &amp; ouer chargeable to me taccomplisshe I feryd me in the begynnyng of the translacyon to haue contynued it / by cause of the longe tyme of the translacion / &amp; also in thenpryntyng of ye same &amp; in maner halfe desperate to haue accomplissd it / was in purpose to haue lefte it / after that I had begonne to translate it / &amp; to haue layed it aparte ne had it be at thynstaunce &amp; requeste of the puyssant noble &amp; vertuous erle my lord wyllyam erle of arondel / whiche desyred me to procede &amp; contynue the said werke / &amp; promysed me to take a resonable quātyte of them when they were achyeued &amp; accomplisshed / and sente to me a worshypful gentylman a seruaunte of his named Ioh̄n Stanney whych solycyted me in my Lordes name that I shold in no wyse leue it but accomplisshe it promysyng that my sayd lord shold duryng my lyf yeue &amp; graunte to me a yerely fee / that is to wete a bucke in sommer / &amp; a doo in wynter / with whiche fee I holde me wel contente / Thenne atte centemplacion &amp; reuerence of my sayd lord / I haue endeuoyred me to make an ende &amp; fynysshe thys sayd translacion / and also haue enprynted it in the moost best wyse that I haue coude or myght / and presente this sayd boook to his good &amp; noble lordshyp / as chyef causer of the achyeuyng of hit / prayeng hym to take it in gree of me Wyllyam caxton hys poure seruaunte / &amp; that it lyke hym to remembre my fee / &amp; I shal praye vnto almyghty god for his longe lyf and welfare / &amp; after this shorte &amp; transytorye lyf to come in to euerlastyng ioye in heuen / the whiche he sende to hym &amp; me / &amp; vnto al them that shal rede and here this sayd book / that for the loue &amp; feythe of whome al these holy sayntes hath suffred deth and passyon amen /
+          
+          ¶And to thende eche hystoryy lyf &amp; passyon may be shortely foūden I haue ordeyned this table folowyng / where &amp; in what leef he shal fynde suche as shal be desyred / and haue sette the nombre of euery leef in the margyne /</p> 
+            
+<pb n="3"/>
+            <p>¶ Thaduent of our lord
+                folio primo
+                The natyuyte of our lord
+                foure
+                The circumcysyon of our lord
+                fyue
+                The feste of thepyphanye
+                eyghte
+                Septuagesme
+                enleuen
+                Sexagesme folio
+                enleuen
+                Quinquagesme
+                twelue
+                Quadragesme
+                twelue
+                The ymbre dayes
+                thyrtene
+                The passyon of our lord
+                fourtene
+                The resurrexyon
+                eyghtene
+                The letanyes more &amp; lasse
+                xxi
+                The ascencion of our lord
+                xxiij
+                The feste of whytsontyde
+                xxvj
+                The feste of corpus xpristi
+                thyrty
+                The feste of dedycacion
+                two &amp; thyrty
+                The hystorye of adam
+                seuen &amp; thyrty
+                The historye of Noe
+                nyne &amp; thyrty
+                The hystorye of abraham
+                fourty
+                The hystorye of ysaac &amp; his two sones Esau &amp; Iacob
+                four &amp; fourty
+                Thystorye of Ioseph
+                eyght &amp; fourty
+                Thystorye of moyses
+                foure &amp; fyfty
+                The ten commaundementes
+                syxty
+                Of Iosue
+                thre score and thre
+                The fyrst feryal sonday after trynyte sonday is redde thystoryes of samuel the prophete &amp; of saul the first kynge of Israhel
+                folio thre score and thre
+                Thystorye of dauyd kyng
+                lxviij
+                Of Salamon
+                lxxj
+                Of Roboas
+                thre score &amp; fourtene
+                Of Iob
+                thre score &amp; fourtene
+                Thystorye of thoby
+                thre score &amp; fyftene
+                Thystorye of Iudyth
+                four score
+                
+                ¶ Of sayntes
+                Saynt andrewe
+                four score and thre
+                Saynt nycholas
+                four score &amp; seuen
+                The concepcion of our lady
+                lxxxxj
+                Saynt gencyen Fulcyen and victrice
+                four score and twelue
+                Saynt lucye
+                four score &amp; thyrtene
+                Saynt nychase
+                four score &amp; fourtene
+                Saynt Thomas thappostle
+                lxxxxiiii
+                Saynt anastase
+                four score &amp; seuentene
+                Saynt eugene
+                four score &amp; seuentene
+                Saynt stephen prothomarter
+                lxxxxviii
+                Saynt Iohan theuangelist
+                an hondred
+                The Innocentes
+                an hondred &amp; thre
+                Saynt thomas of caunterburye
+                Cv
+                Of saynt syluester
+                an hondred viii
+                Saynt paule the first hermyte
+                Cx
+                Of saynt Remyge
+                Cxi
+                Of saynt hylarye
+                a hondred &amp; twelue
+                Of saynt fyrmyn
+                a hondred &amp; twelue
+                Of saynt machayre
+                Cxiii
+                Of saynt felyx
+                a hondred &amp; thyrtene
+                Of saynt marcel
+                a hondred &amp; fourtene
+                Of saynt anthonye
+                a hondred &amp; xiiii
+                Of saynt fabyan
+                a hondred &amp; syxtene
+                Of saynt sebastyen
+                a hondred &amp; xvi
+                Of saynt agnes
+                a hondred &amp; xix
+                Of saynt vyncent
+                Cxxi
+                Of saynt basylle
+                Cxxii
+                Of saynt Iohan thamener
+                Cxxiiii
+                The conuersyon of saynt poule
+                Cxxvii
+                Saynt paulyne the wydowe
+                Cxxviii
+                Saynt Iulyen the bysshop
+                Cxxix
+                Of saynt Ignacyen
+                Cxxxi
+                The purificacion of our lady
+                Cxxxii
+                Of saynt blase
+                an hondred xxxiiii
+                Of saynt agathe
+                an hondred xxxv
+                Of saynt amande
+                an hondred xxxvii
+                Of saynt vedast
+                an hondred xxxvii
+                Of saynt valentyn
+                Cxxxvii
+                Of saynt Iulyan virgyn
+                Cxxxviii
+                Of saynt peeter in cathedra
+                Cxxxix
+                Saynt mathye thappostle
+                Cxl
+                Saynt gregory pope
+                Cxlij
+                Saynt longyus
+                Cxliiij
+                Saynt maure
+                Cxlv
+                Of saynt patryke
+                Cxlv
+                Of saynt benette
+                Cxlvj
+                Of saynt cutberde
+                Cxlix
+                Thanunciacion of our lady
+                Cl
+                Of saynt second
+                an hondred li
+                Of saynt marye egypcyen
+                Clij
+                Of saynt ambrose
+                Cliij
+                Of saynt alphey
+                Clvi
+                Of saynt george
+                Clvij
+                Of saynt marke
+                an hondred lix
+                Of saynt marcellyn
+                Clxj
+                Of saynt Vytal
+                Clxi
+                Saynt peter of melane
+                Clxij
+                Of saynt phelyp
+                an hondred lxv
+                Of saynt Iames the lasse
+                Clxv
+                Thynuencyon of tholy crosse
+                Clxvij
+                Of saynt Iohan portlatyn
+                Clxviij
+                Of saynt gordyan
+                an hondred lxix
+                Of sayntes nereye &amp; achilleye
+                Clxix
+                Of saynt pancrace
+                an hondred lxx
+                Of saynt vrban
+                an hondred lxxj
+                Of saynt parnel
+                an hondred lxxj
+                Of saynt dunston
+                an hondred lxxj
+                Saint austyn that brought crystendom in to englond
+                an hondre lxxiii
+                Of saynt germayn
+                an hondred lxxv
+                Of saynt Peter deaken
+                Clxxvij
+ <pb/> 
+                Sayntes pryme &amp; felycyan
+                Clxxvij
+                Of saynt bernabe thappostle
+                Clxxviij
+                Saynt vyte and mo•este
+                Clxxix
+                Saynt quyryne &amp; Iulytte
+                Clxxx
+                Of saynt maryne
+                Clxxxj
+                Saynt geruase &amp; prothase
+                Clxxxj
+                Saint edward kyng &amp; mar
+                Clxxxij
+                Saynt albon &amp; amphiabel
+                Clxxxiij
+                The natyuyte of saynt Iohan baptest folio
+                an hondred four score &amp; seuen
+                Of saynt loye
+                Clxxxix
+                Of saynt wyllyam
+                an hondred lxxxx
+                Of saynt eutrope
+                Clxxxx
+                Of saynt marcyal
+                Clxxxxij
+                Of saynt geneuefe
+                Clxxxxiiij
+                Of saynt maturyne
+                Clxxxxviij
+                Of saynt vyctor
+                Clxxxxix
+                Saynt Iohan and paule
+                Ccj
+                Saynt leon
+                CCj
+                Saynt peter thappostle
+                CCij
+                Saynt paule thappostle
+                CCv
+                The seuen brethern
+                two hondred x
+                Saynt theodora
+                two hondred x
+                Of saynt swythyn
+                CCxi
+                The translacyon of saynt Thomas of caunterburye
+                CCxij
+                Of saynt kenelme
+                CCxiij
+                Of saynt margarete
+                CCxiiij
+                Saynt marye magdalene
+                CCxvj
+                Of saynt appollynare
+                CCxix
+                Of saynt cristyne
+                CCxx
+                Saynt Iames the more
+                CCxxj
+                Saynt cristofore
+                CCxxiiij
+                The seuen slepars
+                CCxxvj
+                Of saynt nazaryen
+                CCxxviij
+                Of saynt felyx pope
+                CCxxix
+                Sayntes symplycyen faustyn and •eatry•e
+                two hondred xxix
+                Of saynt martha
+                CCxxx
+                Saynt abdon and sennen
+                CCxxxj
+                Saynt germayn
+                CCxxxj
+                Of saynt Eusebe
+                CCxxxiij
+                The seuen machabees
+                CCxxxiiij
+                Of saynt peter ad vincula
+                CCxxxiiij
+                Saynt stephen the pope
+                CCxxxvj
+                Saynt stephen prothomar
+                ijCxxxvij
+                Of saynt domynyk
+                CCxxxviij
+                Saynt syxte pope
+                CCxliiij
+                Of saynt donate
+                CCxlv
+                Of saynt cyryake
+                CCxlv
+                Of saynt laurence
+                CCxlvi
+                Of saynt ypolyte
+                CCli
+                Thassumpcion of our lady
+                CClij
+                Of saynt Rocke
+                CClxij
+                Of saynt bernard
+                CClxiiij
+                Of saynt thymothe
+                CClxviij
+                Of saynt symphoryen
+                CC•xi•
+                Of saynt bartylm•we
+                CClx••
+                Saynt austyn doctour
+                CClxxij
+                Decollacyon of saynt Iohan 〈…〉 folio
+                two hondred lxxvij
+                Of saynt felix preste
+                CClxxix
+                Of saynt sauyen
+                CClxxx
+                Of saynt lowe or lupe
+                CC•xxxj
+                Of saynt mamertyn
+                CClxxx•j
+                Of saynt Gyles
+                CClxxx•ij
+                The natyuyte of our lady
+                CClxxxiiij
+                Of saynt adryan marter
+                CClxxxvij
+                Of saynt gorgone
+                two hondred •xxx•x
+                Of saynt pro•he and Iacyncte and eugene
+                two hondred lxxxix
+                Thexaltacyon of the holy crosse folio
+                two hondred lxxxx
+                Of saynt Iohan crisostom
+                CClxxxxij
+                Of saynt cornelye and cypryan folio
+                two hondred four score &amp; xiij
+                Of saynt Eufemye
+                CClxxxxiiij
+                Of saynt Lambert
+                CC•xxxxv
+                Of saynt mathewe
+                CClxxxxv
+                Of saynt mauryce
+                CClxxxxix
+                Of saint Iustyn
+                thre hondred &amp; one
+                Of saynt cosme and Damyan folio
+                thre hondred and thre
+                Saynt forsyn
+                thre hondred &amp; foure
+                Saynt mychel
+                thre hondred &amp; fyue
+                Saynt Iherome
+                thre hondred ix
+                Saynt remyge
+                thre hondred xj
+                Saynt logyer
+                thre hondred xij
+                Saynt Fraunsoys
+                thre hondred x•j
+                Saynt pelagyen
+                thre hondred xvij
+                Saynt margarite otherwyse sayd Pelagyen
+                thre hondred &amp; eyghtene
+                Saynt Thaysys
+                thre hondred xix
+                Saynt denyse
+                thre hondred xx
+                Saynt calixte
+                thre hondred xxij
+                Saynt edward kyng
+                CCC•xij
+                Saynt luke
+                thre hondred xxxij
+                Saint crisant &amp; daria
+                CCCxxxv
+                〈◊〉 vrsula
+                thre hondred xxxvj
+                Saynt cryspyn and cryspynyan folio
+                thre hondred &amp; xxxviij
+                Saint symond &amp; Iude
+                CCCxxxviij
+                Saynt quyntyn
+                thre hondred xlj
+                Saynt eustace
+                thre hondred xlj
+                Alle halowes
+                thre hondred xlv
+                Cōmemoracion of sowles
+                CCCxlviij
+                Saynt wenefrede
+                thre hondred liij
+                Saynt Leonard
+                thre hondred &amp; liiij
+                The iiij crowned marters
+                CCClv
+                Saynt theodore
+                thre hondred lv 
+
+<pb/>
+                Saynt martyn
+                CCClvj
+                Saynt bryce
+                CCClix
+                Saynt elysabeth
+                CCClxxj
+                Saynt edmund bisshop
+                CCClxxiiij
+                Saynt hughe
+                CCClxxvi
+                Saynt edmund kyng
+                CCClxxvij
+                Saynt cecyle
+                CCClxxviij
+                Saynt clemente
+                CCClxxix
+                Saynt grysogone
+                CCClxxxiij
+                Saynt katheryne
+                CCClxxxiiij
+                Saynt saturnyne
+                CCClxxxx
+                Saynt Iames the marter
+                iiiClxxxxi
+                The venerable bede
+                CCClxxxxij
+                Saynt dorathe
+                CCClxxxxiij
+                Saynt brandon
+                CCClxxxxiiij
+                Saynt erkenwolde
+                CCClxxxxix
+                Saynt pastour
+                four hondred
+                Abbot Iohan
+                foure hondred
+                Abbot moyses
+                four hondred &amp; one
+                Saynt arsenyen
+                four hondred &amp; one
+                Aabot agathon
+                four hondred &amp; two
+                Balaam &amp; Iosaphat
+                iiiiCiiij
+                Pelagyen and thystorye of the lombardes
+                four hondred and eyght
+                Saynt symeon
+                iiiiCxv
+                Saynt polycarpe
+                iiiiCxvj
+                Saynt quyryace
+                iiiiCxvij
+                Saynt thomas dalquyne
+                iiiiCxviij
+                Saynt gayus
+                iiiiCxx
+                Saynt arnolde
+                iiiiCxx
+                Saynt Turyen
+                iiiiCxxiij
+                Saynt fyacre
+                iiiiCxxiij
+                Saynt Iustyne
+                iiiiCxxiiij
+                Saynt demetryen
+                iiiiCiiij
+                Saynt rigoberte
+                iiiiCxxv
+                Saynt laudry
+                iiiiCxxvi
+                Saynt mellonyn
+                iiiiCxxvi
+                Saynt yues
+                iiiiCxxvij
+                Saynt moraunt
+                iiiiCxxix
+                Saynt lowes of fraūce
+                iiijCxxxj
+                Saynt lowes bysshop
+                iitiCxxxij
+                Saynt audegonde
+                iiiiCxxxiij
+                Saynt aulbyne
+                iiiiCxxxiiij
+                Thystorye of the masse
+                iiiiCxxxv
+                The twelue artycles of the feythe folio
+                four hondred &amp; thre &amp; fourty
+                
+                ¶Another table by letter
+                Aduent folio
+                Primo
+                Ascencyon of our lord
+                xxiij
+                Adam
+                seuen and thyrty
+                Abraham
+                fourty
+                Andrewe
+                fo•• score and thre
+                Anastase
+                four s••re &amp; seuentene
+                Anthonye
+                an ho••red &amp; fourtene
+                Agnes
+                an hondred and nyntene
+                Agathe
+                Cxxxv
+                Amande
+                an hondred xxxvii
+                Anūciacion of our lady
+                Cl
+                Ambrose
+                Cliij
+                Alphey
+                Clvi
+                Achylleye
+                Clxix
+                Austyn that brought in to englonde crystendom
+                an hondred lxxiij
+                Albone and Amphyabel
+                an hondred lxxxiij
+                •ppollynare
+                CCxix
+                Abdon
+                two hondred xxxj
+                Assumpcion of our lady
+                CClii
+                Austyn the doctour
+                CClxxij
+                Adryan marter
+                CClxxxvij
+                Alle halowes
+                iiiCxlv
+                Arsenyen
+                four hondred &amp; one
+                Agathon abbot
+                four hondred &amp; two
+                Arnolde
+                four hondred and twenty
+                Audegonde
+                iiiiCxxxiij
+                Aulbyne
+                iiiiCxxxiiij
+                Artycles of the feythe
+                iiiiCxliij
+                Basylle
+                Cxxij
+                Blase
+                Cxxxiiij
+                Benette
+                Cxlvi
+                Barnabe
+                Clxxviij
+                Brethern seuen
+                CCx
+                Beatryce
+                CCxxix
+                Bernarde
+                CClxiiij
+                Bartylmewe
+                CClxix
+                Bryce
+                CCClix
+                Bede
+                CCClxxxxij
+                Brandon
+                CCClxxxxiij
+                Balaam
+                CCCCiiij
+                Circuncisyon
+                fyue
+                Corpus xpristy
+                xxx
+                Commaundementes ten
+                lx
+                Concepcyon of our lady
+                lxxxxi
+                Conuercyon of saynt poule
+                Cxxvij
+                Cutberd
+                Cxlix
+                Crystyne
+                CCxx
+                Crystofore
+                CCxxiiij
+                Cyryake
+                CC••••
+                Cornelye &amp; cypryan
+                CClxx•••••
+                Cosme
+                thre hondred &amp; thre
+                Calyxte
+                CCCxxi•
+                Crysaunt
+                CCCxx•v
+                Cryspyn &amp; cryspynyan
+                CCCxxxviij
+<pb/>
+                Commemoracion of al sowles folio
+                thre hondred xlviij
+                Crowned martes four
+                thre hondred lv
+                Cecylye
+                thre hondred lxxviij
+                Clemente
+                thre hondred lxxix
+                Dedicacion
+                two &amp; thirty
+                Dauyd kyng
+                lxviij
+                Dunston
+                an hondred thre score xj
+                Domynyk
+                two hondred xxxviij
+                Donace
+                two hondred xlv
+                Decolacion of saynt Iohan
+                CClxxvij
+                Damyan
+                thre hondred iij
+                Denyse
+                thre hondred xx
+                Darya
+                thre hondred xxxv
+                Dorathe
+                thre hondred four score xiij
+                Demetryen
+                four hondred and xxiiij
+                Epyphanye folio
+                viij
+                Esau
+                four and fourty
+                Eugene
+                four score and xvij
+                Edward kyng &amp; marter
+                Clxxxij
+                Eutrope
+                an hondred four score &amp; ten
+                Eusebe
+                two hondred and xxxiij
+                Exaltacion of the crosse
+                CClxxxx
+                Eufemye
+                two hondred lxxxxiiij
+                Edward kyng &amp; confessour
+                CCCxxij
+                Eustace
+                thre hondred and xl
+                Elyzabeth
+                thre hondred thre score xj
+                Edmund bisshop
+                thre hondred lxxiiij
+                Edmund kyng
+                thre hondred lxxvij
+                Erkenwolde
+                thre hondred lxxxxix
+                Fulcyen
+                foure score &amp; twelue
+                Fyrmyn
+                an hondred and twelue
+                Felyx
+                an hondred and thyrtene
+                Fabyan
+                an hondred and syxtene
+                Felycyan
+                an hondred lxxvij
+                Felix pope
+                two hondred xxix
+                Faustyn
+                two hondred xxix
+                Felyx preest
+                two hondred lxxix
+                Forsyn
+                thre hondred and foure
+                Fraunsoys
+                thre hondred &amp; twelue
+                Fyacre
+                four hondred &amp; xxiij
+                Gencien folio
+                lxxxxij
+                Gregorye
+                an hondred xlij
+                George
+                an hondred &amp; seuen &amp; fyfty
+                Gordyan
+                an hondred thre score ix
+                Germayn
+                an hondred thre score xv
+                Ger••se
+                an hondred four score &amp; one
+                Genouefe
+                an hondred lxxxxiiij
+                Germayn
+                two hondred xxxj
+                Gyles
+                two hondred lxxxiij
+                Gorgone
+                two hondred lxxxix
+                Grisogone
+                thre hondred lxxxiij
+                Ga•us
+                four hondred &amp; twenty
+                Hilayre
+                Cxij
+                Hughe
+                thre hondred lxxvj
+                Iacob folio
+                xliiij
+                Ioseph folio
+                xlviij
+                Iosue
+                thre score and thre
+                Iob folio
+                thre score and fourtene
+                Iudyth folio
+                foure sco•e
+                Iohan theuangelist
+                an hondred
+                Innocentes
+                an hondred &amp; thre
+                Iohan thamener
+                an hondred xxiiij
+                Iulyen the bysshop
+                Cxxix
+                Ignacyen
+                an hondred xxx•
+                Iulyane vyrgyn
+                Cxxxviij
+                Iames the lasse
+                an hondred lxv
+                Inuencyon of the crosse
+                Clx•ij
+                Iohan portlatyn
+                an hondred lxviij
+                Iulytte
+                an hondred &amp; four score
+                Iohan the baptyst
+                Clxxxvij
+                Iohan &amp; Paule
+                two hondred v
+                Iames the more
+                two hondred xxj
+                Inuēcion of saynt stephen
+                ijCxxxvij
+                Iacyncte
+                two hondred lxxxix
+                Iohan crisostom
+                CClxxxxij
+                Iustyn
+                thre hondred &amp; one
+                Iherome
+                thre hondred ix
+                Iude
+                thre hondred xxxviij
+                Iames the marter
+                CCClxxxxj
+                Iohan thabbot
+                foure hondred
+                Iosaphat
+                four hondred &amp; foure
+                Iustyne
+                four hondred &amp; fourtene
+                Kenelme
+                CCxiij
+                Katheryne
+                thre hondred lxxxiiij
+                Letanies more &amp; lesse
+                xxj
+                Lucye vyrgyne
+                lxxxxiij
+                Longyus
+                an hondred xliiij
+                Loye
+                an hondred four score &amp; ix
+                Loen
+                two hondred and one
+                Laurence
+                two hondred fourty &amp; v•
+                Lowe or lupe
+                two hondred lxxxj
+                Lambert
+                two hondred four score xvj
+                Logyer
+                thre hondred and twelue
+                Luke
+                thre hondred xxxi
+                Leonard
+                thre hondred &amp; four &amp; fyfty
+                Laudry
+                four hondyed xxvi
+                Lowes kynge of Fraun•e folio
+                four hondred and thyrty
+                Lowes bysshop
+                four hondred xxxij
+<pb/>
+                Moyses folio
+                liiij
+                Machayre
+                Cxiij
+                Marcel
+                Cxiiij
+                Mathye appostle
+                Cxl
+                Maure
+                Cxlv
+                Marye egypcyen
+                Clij
+                Marke
+                Clix
+                Marcellyn
+                Cxlj
+                Modest
+                Clxix
+                Maryne
+                Clxxxj
+                Marcyal
+                Clxxxxij
+                Maturyn
+                Clxxxxviij
+                Margarete
+                CCxiiij
+                Marye magdalene
+                CCxvj
+                Martha
+                CCxxx
+                Machabees
+                CCxxxiiij
+                Mamertyn
+                CClxxxij
+                Mathewe
+                CClxxxxv
+                Mauryce
+                CClxxxxix
+                Mychel
+                CCCv
+                Margarete alias pelagyen
+                CCCxviij
+                Martyn
+                CCClvj
+                Moyses thabbot
+                CCCCj
+                Mellonyn
+                CCCCxxvj
+                Moraunt
+                CCCCxxix
+                Masse thexposycyon
+                CCCCxxxv
+                Natyuyte of our lord
+                iiij
+                Noe
+                xxxix
+                Nycholas
+                lxxxvij
+                Nychase
+                lxxxxiiij
+                Nereye
+                Clxix
+                Natyuyte of saynt Iohan baptest
+                Clxxxxvij
+                Nazaryen
+                CCxxviij
+                Natyuyte of our lady
+                CClxxxiiij
+                Passion of our lord
+                xiiij
+                Paule the fyrst hermyte
+                Cx
+                Paulyne
+                Cxxviij
+                Purifycacyon of our lady
+                Cxxxij
+                Peter in cathedra
+                Cxxxix
+                Patryk
+                Cxlv
+                Peter of melan
+                Clxij
+                Phelyp thappostle
+                Clxv
+                Pancrace
+                Clxx
+                Pernel
+                Clxxj
+                Peter deken
+                Clxxvij
+                Pryme
+                Clxxvij
+                Prothase
+                Clxxxj
+                Peter thappostle
+                CCij
+                Paule
+                CCv
+                Peter ad vincula
+                CCxxiiij
+                Prothe
+                CClxxxix
+                Pelagyen
+                CCCxvij
+                Pastour thabbot
+                CCCC
+                Pelagyen pope
+                CCCCviij
+                Polycarpe
+                CCCCxvj
+                Quynquagesme
+                xij
+                Quadragesme
+                xij
+                Quyrynn
+                Clxxx
+                Quyntyn
+                CCCxlj
+                Quiriace
+                CCCCxvij
+                Resurrexion of our lord
+                xviij
+                Roboas
+                lxxiiij
+                Remyge
+                Cxj
+                Rocke
+                CClxij
+                Remyge
+                CCCxj
+                Rygobert
+                four hondred xxv
+                Septuagesme
+                xj
+                Sexagesme
+                xj
+                Samuel
+                lxiij
+                Saul folio
+                lxiij
+                Salamon
+                lxxj
+                Stephen prothomarter
+                lxxxxviij
+                Syluester
+                Cviij
+                Sebasteyn
+                Cxvj
+                Seconde
+                an hondred lj
+                Seuen brethern
+                two hondred x
+                Swythyn
+                two hondred xj
+                Seuen slepars
+                two hondred xxvj
+                Symplycyen
+                two hondred xxix
+                Sauien
+                two hondred xxxj
+                Stephen the pope
+                two hondred xxxvj
+                Syxte the pope
+                two hondred xliiij
+                Symphoryen
+                two hondred lxix
+                Sauyen
+                two hondred lxxx
+                Symond thappostle
+                iijCxxxviij
+                Saturnyne
+                thre hondred lxxxx
+                Symeon marter
+                four honred xv
+                Thoby folio
+                lxxv
+                Thomas thappostle
+                lxxxxiiij
+                Thomas of caunterburye
+                Cv
+                Theodora
+                two hondred x
+                Translacion of hym
+                two hondred xij
+                Tymothe
+                two hondred lxviij
+                Thaysys
+                thre hondred xix
+                Theodore
+                thre hondred lv
+                Thomas dalquyne
+                four hondred xviij
+                Turyen
+                four hondred xxij
+<pb/>
+                Uytryce
+                lxxxxij
+                Vyncente
+                Cxxj
+                Vedaste
+                Cxxxvij
+                Valentyn
+                Cxxxvij
+                Vytal
+                Clxj
+                Vrban
+                Clxxj
+                Vyte
+                Clxxix
+                Vyctor
+                Clxxxxix
+                Vrsula
+                CCCxxxvj
+                Whytsontyde
+                xxvj
+                Wyllyam
+                Clxxxx
+                Wenefrede
+                CCCliij
+                Ymber dayes folio
+                xiij
+                Ysaac folio
+                xliiij
+                Ypolyte folio
+                CClj
+                Yues folio
+                CCCCxxvij
+                ¶ Explicit  
+                <!--This is the end of the table of contents- be sure to go into TEI and see how the tagging shoul work here there should definitely be notes ob this -->
+            </p> 
+ <pb/>
+            <p>THe tyme of thaduēt or comyng of our lord in to this world is halowed in holy chirche the tyme of iiij wekes in betokenyng of iiij dyuerse comynges / The j was whan he cā &amp; apierid in humayn nature &amp; flessh The ij is in the herte &amp; cōscyence / The iij is at the deth / The iiij is at last Iugemēt / The last weke may vnnethe be accōplissed / For the glorye of the sayntes whiche shal be yeuen at the last comyng shal neuer ende ne fynysshe / And to this signyfyaūce ye first responce of the first weke of aduent hath iiij verse to rekene Gloria patri &amp; filio for one / to the reporte of the iiij wekis / and how be it that there be iiij comynges of our lord / yet ye chirche maketh menciō in especial but of tweyne / yt is to wete of that he cā in humayne nature to the world / &amp; of yt he cometh to the Iugemēt &amp; dome / as it apperith in thoffyce of the chirche of this tyme / And therfor the fastynges that ben in this tyme ben of gladnes and of Ioye in one partie / &amp; that other partie is in bitternesse of herte / By cause of the comyng of our lorde in our nature humayne / they ben of Ioye &amp; gladnes / And by cause of the comyng at ye day of Iugemēt / they be of bitternes &amp; heuynes As towchyng the comyng of our lord in our bodyly flessh we may considre thre thynges of this comyng That is to wete thoportunyte / the necessyte / &amp; the vty / lyte / The oportunyte of comyng is takē by the reson of the man that first was vaynquysshyd in the lawe of nature of the defaulte of the knowlege of god / by whiche he fyll in to euyll errours / &amp; therfore he was cōstrayned to crye to god Illuīa oculos meos / yt is to saye lord gyue lyght to myn eyen After cam the la / we of god whiche hath gyuen cōmandement in whiche he hath ben ouercome of Impuissance / as first he hath cryed / ther is non yt fulfilleth but that comādeth for ther he is only taught / but not delyuerd fro synne ne holpē by grace / &amp; therfore he was cōstrayned to crye / ther laketh non to comande but ther is none that accōplisheth the cōmandement / Thēne cam the sone of god in tyme whā mā was vaynquysshid of ygnorance &amp; Impuissaūce / to ye yf he had so comē to fore / {per}auenture man myght saye yt by his owne merites he myght haue be saued / &amp; thus he had not be boūde to yeld thankes to god / The ij thynge yt is shewd vs of this comyng is the necessyte by reson of the tyme / of whiche thappostle poul speketh / ad galatas the iiij chapitre / At vbi venet plenitudo tem{per}is / whan the plenitude or ful tyme of the grace of god was ordeyned / thēne he sente his sone yt was god &amp; sone of the virgyne &amp; wyf / whiche was made subget to the lawe / To that yt they be subget to ye lawe he bought hem agayn &amp; were receyued sones of god by grace of adopcion / Now saith saynt austyn yt many demande why he cam not rather / he answerth that it was by cause that the plenytude of tyme was not come / whiche shold come by hym that all thynges were ordeyned &amp; made / &amp; after whan this plenitude of tyme cam / he cā that of tyme passed hath delyueryd vs To that we shal be delyueryd of tyme we shal come to hym / where as no tyme passeth / but is perpetuite / The iij thyng that is shewde to vs of this comyng is the vtylyte &amp; proufit that cometh for the cause of the hurte &amp; sekenes generall / For syth the maladye was general / the medecyne must be general / wherof saith saynt Austyn / that thenne cam the grete medecyn / whan the grete maladye was thurgh all the world wherof the holy chirche remembreth in vij Antemmis yt ben songen to fore the natyuyte of our lord where the maladye is shewd in diuerse maners / And for eche demādeth remedye of his maladye of the phisicyen For to fore the comyng of our lorde we were ygnorant / &amp; blynd bounden to payne {per}durable / bonde to the deuyll / Alyed to hym by euyll custome of synne / ywrapped in derkenes / &amp; dryuen out of our contrey and therfore we haue grete nede of a doctour or techer / of ayenbyar of a delyuerer / of a conduyter / of a lighter or Illuminer and of a Sauyour / ¶Therfore thenne that we were ignorant / we had nede that we were of hym taught and lerned / ¶And therfore we crye in the first Antheme O sapiencia que ex ore altissimi prodisti et cetera ¶O sapience souerayne /</p>
+           
+            <bibl>
+                
+            </bibl>
+        </body>
+    </text>
+</TEI>
