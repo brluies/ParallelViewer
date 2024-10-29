@@ -8,6 +8,6 @@ async function loadTEI(file, elementId) {
 }
 
 window.onload = () => {
-    loadTEI('tei_files/document1.xml', 'text1');
-    loadTEI('tei_files/document2.xml', 'text2');
+    loadTEI('tei_files/CaxtonGoldenLegend1483.xml', 'text1');
+    loadTEI('tei_files/SienaGoldenLegende.xml', 'text2');
 };
